@@ -3,12 +3,14 @@
 * Cloud Developer
 * Cloud Architect
 * Network Engineer (Cloud)
+
 Major Types Of Cloud Engineers
 The three major categories are:
 * Solutions Architect
 * Cloud Developer
 * System Operations Engineer
 Based on the above categories Cloud Engineer roles and responsibilities may vary. Let me throw some light on each of these roles:
+
 Solutions Architect
 These are the individuals who will be involved in designing the infrastructure and applications. Therefore, they must possess advanced technical skills and experience in designing distributed applications and systems on the Cloud platform. Simply speaking, they are responsible for creating blueprints of application designs.
 These are some of their responsibilities:
@@ -16,7 +18,8 @@ These are some of their responsibilities:
 * Selecting appropriate Cloud services to design and deploy an application based on given requirements
 * Migrating complex, multi-tier applications on Cloud Platforms
 * Designing and deploying enterprise-wide scalable operations on Cloud Platforms
-* Implementing coCloud Developer
+
+Cloud Developer
 * It is pretty clear from the title that these individuals are responsible for coding and development of applications. They are expected to have knowledge of the best practices related to Cloud architecture. Cloud Developers are also involved in developing, deploying, and debugging cloud-based applications. They are expected to have:
 * Expertise in at least one high-level programming language
 * Skills for developing, deploying & debugging cloud applications
@@ -28,6 +31,7 @@ These are some of their responsibilities:
 * Skills in writing, correcting and debugging code modules
 * Code writing skills for serverless applications
 * Understanding in the use of containers in development processes
+
 System Operations Engineer
 These individuals are system administrators who take over once the application is designed and developed. They are responsible for managing and monitoring most of the activities that follow the process of development. They should possess the following skills:
 * Relevant experience as a systems administrator in a systems operations role
