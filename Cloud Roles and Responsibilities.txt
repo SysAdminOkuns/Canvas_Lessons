@@ -44,3 +44,4 @@ These individuals are system administrators who take over once the application i
 * Capability to select the appropriate services based on compute, data, or security requirements
 * Abiity to estimate usage costs and identify operational cost control mechanisms
 * Capability to migrate on-premises workload to service providers
+*
